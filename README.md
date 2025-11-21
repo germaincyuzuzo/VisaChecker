@@ -56,12 +56,12 @@ The Visa Entry Checker is a practical travel application that helps users unders
 
 ```
 visa-checker/
-├── app.py                          # Flask application & API routes
+├── app.py                          
 ├── templates/
-│   └── index.html                  # Web UI (HTML/CSS/JavaScript)
-├── static/                         # (Optional) Static files
-├── requirements.txt                # Python dependencies
-├── README.md                       # This file
+│   └── index.html                  
+├── static/                         
+├── requirements.txt                
+├── README.md                       
 
 ```
 
